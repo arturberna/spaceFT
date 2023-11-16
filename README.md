@@ -10,6 +10,7 @@
 + Player como movimento horizontal
 + Background Scroll
 + Movimento dos inimigos
++ Iluminação da cena
   
 
 
