@@ -33,8 +33,11 @@
 
 ## Como executar a aplicação
 
-1) Executar a unity
+1) Clonar Projeto
+2) Executar a unity
+3) Seja Feliz
+   
    
 
 
-<!--center><img src="https://user-images.githubusercontent.com/38620899/106393900-5aa85880-63d8-11eb-88f1-07ac30adad80.gif"></center-->
+<center><img src="https://github.com/arturberna/spaceFT/blob/main/Assets/Images/background.png"></center>
