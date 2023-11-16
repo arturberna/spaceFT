@@ -1,5 +1,10 @@
-<style>
-  :root {
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - 3D Card Hover</title>
+  <style>
+    :root {
   --card-height: 300px;
   --card-width: calc(var(--card-height) / 1.5);
 }
@@ -106,8 +111,11 @@ body {
   opacity: 1;
   transform: translate3d(0%, -30%, 100px);
 }
-</style>
+  </style>
 
+</head>
+<body>
+<!-- partial:index.partial.html -->
 <a href="https://www.mythrillfiction.com/the-dark-rider" alt="Mythrill" target="_blank">
   <div class="card">
     <div class="wrapper">
@@ -127,3 +135,8 @@ body {
     <img src="https://ggayane.github.io/css-experiments/cards/force_mage-character.webp" class="character" />
   </div>
 </a>
+<!-- partial -->
+  
+</body>
+</html>
+
